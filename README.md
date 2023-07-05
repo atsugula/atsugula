@@ -2,7 +2,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-Jorge_usuga-blue?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/jorge_usuga_)](https://www.twitter.com/jorge_usuga_)
 [![Instagram Badge](https://img.shields.io/badge/-@Jorge_usuga-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://instagram.com/_jorge_usuga)
 [![Linkedin Badge](https://img.shields.io/badge/-Jorge_usuga-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jusuga/)](https://www.linkedin.com/in/jusuga/)
-![](https://visitor-badge.glitch.me/badge?page_id=atsugula.atsugula)
+
+
+![](https://komarev.com/ghpvc/?username=atsugula)
 <!--
 **TheGeorgeZ/TheGeorgeZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=atsugula&show_icons=true&theme=gotham&hide=contribs,prs" alt="atsugula" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atsugula&show_icons=true&theme=gotham)

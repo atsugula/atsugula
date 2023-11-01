@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atsugula&show_icons=true&theme=gotham)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=atsugula&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
